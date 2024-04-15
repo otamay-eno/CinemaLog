@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">映画記録</string>
+
+    <!-- Menu 文言 -->
+    <string name="menu_new">新しい順</string>
+    <string name="menu_old">古い順</string>
+    <string name="menu_year">年別</string>
+    <string name="menu_search">検索</string>
+
+    <!-- ダイアログ文言 -->
+    <string name="error_dialog_title">登録に失敗しました</string>
+    <string name="error_dialog_message">もう一度お試しください</string>
+    <string name="connection_error_dialog_title">通信エラー</string>
+    <string name="connection_error_dialog_message">通信状態を確認し、\n再度お試しください。</string>
+</resources>
